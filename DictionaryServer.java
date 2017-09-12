@@ -1,8 +1,6 @@
 /********A Simple Dictionary with server-client architecture
  *          that supports multiple clients access
- * Author:      Liang Zhang
- * Student ID:  692353
- *
+ * Author:      Daniel Zhang
  */
 import org.kohsuke.args4j.CmdLineException;
 import org.kohsuke.args4j.CmdLineParser;
